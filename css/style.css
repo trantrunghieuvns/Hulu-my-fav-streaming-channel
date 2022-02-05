@@ -228,6 +228,10 @@ h4 {
     linear-gradient(24.5deg, rgba(0, 0, 0, 0.2) 4.71%, rgba(0, 0, 0, 0) 71.49%);
 }
 
+.categories .cover-grad:hover {
+  opacity: 70%;
+}
+
 .categories .cover-text {
   position: absolute;
   top: 20px;
